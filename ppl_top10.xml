@@ -1,1 +1,11 @@
-test
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Best Sellers Book List</title>
+  <link>https://pickeringpubliclibrary.ca</link>
+  <description>Top 10 list of best sellers</description>
+  
+</channel>
+
+</rss>
