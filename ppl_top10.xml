@@ -1,58 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
+
 <channel>
   <title>Lobby Display Featured Book List</title>
   <link>https://pickeringpubliclibrary.ca</link>
   <description>Top 10 list of best sellers</description>
-  <item>
+    <item>
     <title>The Secret of Secrets</title>
+    <link>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1738135066i/223889699._SX1200_.jpg</link>
     <description>N/A</description>
-    <enclosure url="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1738135066i/223889699._SX1200_.jpg" type="image/jpeg" length="50000" />
-  </item>
-  <item>
-    <title>107 Days</title>
+  </item>  <item>
+    <title>107 days</title>
+    <link>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1753912443i/232466984._SX1200_.jpg</link>
     <description>N/A</description>
-    <enclosure url="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1753912443i/232466984._SX1200_.jpg" type="image/jpeg" length="50000" />
-  </item>
-  <item>
+  </item>  <item>
     <title>The Academy</title>
+    <link>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1738247902i/223541023._SX1200_.jpg</link>
     <description>N/A</description>
-    <enclosure url="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1738247902i/223541023._SX1200_.jpg" type="image/jpeg" length="50000" />
-  </item>
-  <item>
+  </item>  <item>
     <title>Tourist Season</title>
+    <link>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1744773411i/231299870._SX1200_.jpg</link>
     <description>N/A</description>
-    <enclosure url="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1744773411i/231299870._SX1200_.jpg" type="image/jpeg" length="50000" />
-  </item>
-  <item>
+  </item>  <item>
     <title>Alchemised</title>
+    <link>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1737131981i/222490389._SX1200_.jpg</link>
     <description>N/A</description>
-    <enclosure url="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1737131981i/222490389._SX1200_.jpg" type="image/jpeg" length="50000" />
-  </item>
-  <item>
+  </item>  <item>
     <title>Pumpkin Spice Everything Nice</title>
+    <link>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1706999501i/202772931._SX1200_.jpg</link>
     <description>N/A</description>
-    <enclosure url="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1706999501i/202772931._SX1200_.jpg" type="image/jpeg" length="50000" />
-  </item>
-  <item>
+  </item>  <item>
     <title>Poems and Prayers</title>
+    <link>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1750819666i/230337105._SX1200_.jpg</link>
     <description>N/A</description>
-    <enclosure url="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1750819666i/230337105._SX1200_.jpg" type="image/jpeg" length="50000" />
-  </item>
-  <item>
+  </item>  <item>
     <title>When the Cranes Fly South</title>
+    <link>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1749138856i/221251872._SX1200_.jpg</link>
     <description>N/A</description>
-    <enclosure url="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1749138856i/221251872._SX1200_.jpg" type="image/jpeg" length="50000" />
-  </item>
-  <item>
+  </item>  <item>
     <title>Strong Ground</title>
+    <link>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1755053739i/224082571._SX1200_.jpg</link>
     <description>N/A</description>
-    <enclosure url="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1755053739i/224082571._SX1200_.jpg" type="image/jpeg" length="50000" />
-  </item>
-  <item>
+  </item>  <item>
     <title>Warriors Graphic Novel</title>
+    <link>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1746874098i/223097517._SX1200_.jpg</link>
     <description>N/A</description>
-    <enclosure url="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1746874098i/223097517._SX1200_.jpg" type="image/jpeg" length="50000" />
   </item>
 </channel>
+
 </rss>
